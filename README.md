@@ -12,7 +12,7 @@
  youtube-dl -f 'bestaudio' -o 'channel_<CHANNEL_NO>.%(ext)s' <VIDEO_URL>
 ```
 
-### Channel List
+### Example Channel List
 
 - Channel 1 : https://www.youtube.com/watch\?v\=xAiA4ubcGjA
 - Channel 2 : https://www.youtube.com/watch\?v\=hobgFoZ899I
@@ -33,6 +33,7 @@
 - [Audio Cropper Converter Python Script](audio_converter.py)
 
 - ```sh
+    # Audio Re-sampling
     sox <INPUT_FILE> -r <SAMPLING_RATE> <OUTPUT_FILE>
   ```
 
