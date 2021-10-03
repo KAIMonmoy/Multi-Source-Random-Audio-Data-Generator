@@ -14,11 +14,11 @@
 
 ### Example Channel List
 
-- Channel 1 : https://www.youtube.com/watch\?v\=xAiA4ubcGjA
-- Channel 2 : https://www.youtube.com/watch\?v\=hobgFoZ899I
-- Channel 3 : https://www.youtube.com/watch\?v\=1pXVxJrKP1w
-- Channel 4 : https://www.youtube.com/watch\?v\=qijNijvUbdA
-- Channel 5 : https://www.youtube.com/watch\?v\=CIMyEoYZfio
+- Channel 1 : https://www.youtube.com/watch?v=xAiA4ubcGjA
+- Channel 2 : https://www.youtube.com/watch?v=hobgFoZ899I
+- Channel 3 : https://www.youtube.com/watch?v=1pXVxJrKP1w
+- Channel 4 : https://www.youtube.com/watch?v=qijNijvUbdA
+- Channel 5 : https://www.youtube.com/watch?v=CIMyEoYZfio
 
 ## Audio Crop and Conversion
 
